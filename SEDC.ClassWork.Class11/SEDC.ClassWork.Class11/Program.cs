@@ -38,7 +38,6 @@ while (true)
     Console.WriteLine("Content in the file: ");
     foreach (var dog in deserializedDogs)
     {
-        
         Console.WriteLine($"Name: {dog.Name} - Age: {dog.Age} - Color: {dog.Color}");
     }
 
