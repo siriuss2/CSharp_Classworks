@@ -9,6 +9,7 @@ if (!Directory.Exists(folderPath))
 {
     Directory.CreateDirectory(folderPath);
 }
+
 List<Dog> dogs = new List<Dog>();
 
 while (true)
@@ -31,6 +32,17 @@ while (true)
 
     string exerciseData = ReaderWriter.ReadFile(filePath);
     List<Dog> deserializedDogs = JsonConvert.DeserializeObject<List<Dog>>(exerciseData);
+
+    SeparatorUtil.Separator();
+
+    Console.WriteLine("Content in the file: ");
+    foreach (var dog in deserializedDogs)
+    {
+        
+        Console.WriteLine($"Name: {dog.Name} - Age: {dog.Age} - Color: {dog.Color}");
+    }
+
+    SeparatorUtil.Separator();
 
     Console.WriteLine("Y to continue , N to exit");
     string userInput = Console.ReadLine();
