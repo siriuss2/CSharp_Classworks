@@ -1,0 +1,17 @@
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\bin\Debug\net6.0\SEDC.ClassWork.Class11.exe
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\bin\Debug\net6.0\SEDC.ClassWork.Class11.deps.json
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\bin\Debug\net6.0\SEDC.ClassWork.Class11.runtimeconfig.json
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\bin\Debug\net6.0\SEDC.ClassWork.Class11.dll
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\bin\Debug\net6.0\SEDC.ClassWork.Class11.pdb
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\SEDC.ClassWork.Class11.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\SEDC.ClassWork.Class11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\SEDC.ClassWork.Class11.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\SEDC.ClassWork.Class11.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\SEDC.ClassWork.Class11.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\SEDC.ClassWork.Class11.csproj.CopyComplete
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\SEDC.ClassWork.Class11.dll
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\refint\SEDC.ClassWork.Class11.dll
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\SEDC.ClassWork.Class11.pdb
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\SEDC.ClassWork.Class11.genruntimeconfig.cache
+C:\Users\Dragan\Desktop\CSharp_Classworks\SEDC.ClassWork.Class11\SEDC.ClassWork.Class11\obj\Debug\net6.0\ref\SEDC.ClassWork.Class11.dll
